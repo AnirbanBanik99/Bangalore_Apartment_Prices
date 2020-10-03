@@ -1,0 +1,24 @@
+1. Took Dataset(csv) from Kaggle.
+2. Loaded in Jupyter (Anaconda).
+followed by the operations on the jupyter notebook:-
+	Hypothesis Generation
+	Data Cleaning
+	Feature Engineering
+	Dimensionality Reduction
+	Outlier Removal
+	Comparing the statistical Reports Before and After the Outlier removal
+	One hot Encoding for location
+	Model Building
+	K fold cross Validation on LRM
+	Finding best model using GridSearchCV
+	Testing
+	Exporting the tested model to pickel file (1)
+	Exported the Location column as JSON file (2)
+3. Created a Python Flask Server.(I've used Pycharm)
+4. Import the exported jupyter pickel(1) and JSON file(2).
+5. Run the server.
+6. Create the Website with HTML, CSS and Javascript.( I've used VS Code)
+7. Run the HTML file on your browser. (I've used Microsoft Edge)
+8. Deploy if you want in PythonAnywhere or AWS EC2 platform.
+9. Here's the link to my Github Profile:-
+    https://github.com/AnirbanBanik99/Bangalore_Apartment_Prices/
